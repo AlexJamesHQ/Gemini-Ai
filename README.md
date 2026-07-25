@@ -31,7 +31,7 @@
 <h3 align="center">ΛLΞX|UI/υX, Web/App Development, 3D & Branding Agency</h3>
 
 - 📫 Reach me on: **alexjames7830@gmail.com**
-- 💻 GitHub Portfolio: **https://bit.ly/alex-james-dev**
+- 💻 GitHub Portfolio: **https://alexjameshq.github.io/PORTFOLIO**
 - 📄 projects: Gemini AI is a smart prompt collection app for AI image generation. It provides ready-to-use prompts optimized for different smartphone styles including iPhone, Samsung, and Google Pixel. Users can quickly copy prompts and generate stunning, realistic, and high-quality images with Gemini AI.
 - <img width="640" height="708" alt="1000177398" src="https://github.com/user-attachments/assets/e266b8f0-d1e5-4526-9b53-9664c02b7106" />
 <img width="720" height="1612" alt="1000177396" src="https://github.com/user-attachments/assets/fffde58a-b837-43db-b2c2-92178c56cc13" />

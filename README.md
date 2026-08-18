@@ -150,7 +150,7 @@ If you find Gemini AI useful, please consider giving this repository a ⭐ on Gi
 
 # 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
